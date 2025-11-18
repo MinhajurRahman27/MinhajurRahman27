@@ -1,7 +1,7 @@
 # 💫 About Me:
-#Assalamuyalaikum,
-###I'm Minhajur Rahman.
-####MERN Stack Developer
+### Assalamuyalaikum,
+## I'm Minhajur Rahman.
+# MERN Stack Developer
 
 
 ## 🌐 Socials:
