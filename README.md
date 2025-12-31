@@ -53,13 +53,12 @@ Currently, I’m sharpening my skills with modern frontend tools and frameworks.
 
 
 <!-- GitHub Streak -->
-
-
-
-  ![GitHub Streak](https://streak-stats.demolab.com?user=MinhajurRahman27&theme=tokyonight)
+![GitHub Stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=MinhajurRahman27)
+![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=MinhajurRahman27&type=languages)
+![GitHub Streak](https://streak-stats.demolab.com?user=MinhajurRahman27&theme=tokyonight)
+![Top Repos](https://git-hub-stats-card-generator.vercel.app/api/svg?username=MinhajurRahman27&type=top-repos)
  
 
-NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.
 
 
 ---
