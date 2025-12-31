@@ -56,7 +56,7 @@ Currently, I’m sharpening my skills with modern frontend tools and frameworks.
 ![GitHub Stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=MinhajurRahman27)
 ![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=MinhajurRahman27&type=languages)
 ![GitHub Streak](https://streak-stats.demolab.com?user=MinhajurRahman27&theme=tokyonight)
-![Top Repos](https://git-hub-stats-card-generator.vercel.app/api/svg?username=MinhajurRahman27&type=top-repos)
+
  
 
 
