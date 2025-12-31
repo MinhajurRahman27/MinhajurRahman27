@@ -1,4 +1,10 @@
 <img src="https://i.ibb.co.com/35bpwFgy/la-1.jpg" alt="Minhajur Rahman GitHub README header image">
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40moepoi-28a8ea"></a>
+<a rel="me" href="" target="_blank"><img src="https://img.shields.io/badge/Mastodon-%40moepoi-blueviolet"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-moepoi-informational"></a>
+<a href="minhajurrahman2716@gmail.com"><img src="https://img.shields.io/badge/Email-moe%40poi.lol-orange"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-moepoi.dev-red"></a>
+<br>
 <h1 align="center">Hi 👋, I'm Minhajur Rahman</h1>
 <h3 align="center">A passionate MERN Stack Developer from Bangladesh.</h3>
 
