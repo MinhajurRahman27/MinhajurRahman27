@@ -1,18 +1,57 @@
 <img src="https://i.ibb.co.com/35bpwFgy/la-1.jpg" alt="Minhajur Rahman GitHub README header image">
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40moepoi-28a8ea"></a>
-<a rel="me" href="" target="_blank"><img src="https://img.shields.io/badge/Mastodon-%40moepoi-blueviolet"></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-moepoi-informational"></a>
-<a href="minhajurrahman2716@gmail.com"><img src="https://img.shields.io/badge/Email-moe%40poi.lol-orange"></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-moepoi.dev-red"></a>
-<br>
-<h1 align="center">Hi 👋, I'm Minhajur Rahman</h1>
-<h3 align="center">A passionate MERN Stack Developer from Bangladesh.</h3>
+<h1 align="center"> 👋 Hi, I'm Minhajur Rahman | Frontend Developer</h1>
 
-- 📫 How to reach me **minhajurrahman2716@gmail.com**
+I’m a passionate Frontend Developer who loves building clean, responsive, and user-friendly web interfaces.  
+I focus on writing readable code, improving performance, and creating smooth user experiences.  
+Currently, I’m sharpening my skills with modern frontend tools and frameworks.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## 🚀 Current Activities
+- 🌱 Exploring **Next.js** and modern rendering techniques (SSR, SSG, ISR)
+- 🧭 Working on a **Tourism Website** with a clean UI & responsive design
+- 🛠 Improving my JavaScript problem-solving skills
+- 📚 Learning best practices for scalable frontend architecture
+
+---
+
+## 🧠 Skills
+
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss)
+
+### 🧩 Backend (Basic)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge&logo=express)
+
+### 🛠 Tools
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode)
+
+---
+
+## 🌐 Connect With Me
+- 🔗 **GitHub:** https://github.com/your-username
+- 💼 **LinkedIn:** https://www.linkedin.com/in/your-profile
+- 🐦 **Twitter/X:** https://twitter.com/your-handle
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=tokyonight)
+
+---
+
+⭐ *“Code. Learn. Improve. Repeat.”*
+
