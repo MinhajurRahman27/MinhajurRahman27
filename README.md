@@ -1,7 +1,8 @@
 <img src="https://i.ibb.co.com/35bpwFgy/la-1.jpg" alt="Minhajur Rahman GitHub README header image">
 <h1 align="center"> 👋 Hi, I'm Minhajur Rahman | Frontend Developer</h1>
 
-I’m a passionate Frontend Developer who loves building clean, responsive, and user-friendly web interfaces.  
+## 👨‍💻 About Me
+I’m a passionate **Frontend Developer** who loves building clean, responsive, and user-friendly web interfaces.  
 I focus on writing readable code, improving performance, and creating smooth user experiences.  
 Currently, I’m sharpening my skills with modern frontend tools and frameworks.
 
@@ -45,11 +46,20 @@ Currently, I’m sharpening my skills with modern frontend tools and frameworks.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=tokyonight)
+
+<!-- GitHub Overall Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?user=MinhajurRahman27&show_icons=true&theme=tokyonight&count_private=true&hide_title=false)
+
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MinhajurRahman27&layout=compact&theme=tokyonight)
+
+<!-- GitHub Streak -->
+![GitHub Streak](https://streak-stats.demolab.com?user=MinhajurRahman27&theme=tokyonight)
+
+<!-- GitHub Trophies (Optional, Fun) -->
+![Trophies](https://github-profile-trophy.vercel.app/?username=MinhajurRahman27&theme=tokyonight)
 
 ---
 
