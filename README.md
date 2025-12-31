@@ -37,9 +37,9 @@ Currently, I’m sharpening my skills with modern frontend tools and frameworks.
 ---
 
 ## 🌐 Connect With Me
-- 🔗 **GitHub:** https://github.com/your-username
-- 💼 **LinkedIn:** https://www.linkedin.com/in/your-profile
-- 🐦 **Twitter/X:** https://twitter.com/your-handle
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/MinhajurRahman27)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/minhajur-rahman27/)
+[![Twitter](https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x)](https://x.com/khondokar_27)
 
 ---
 
