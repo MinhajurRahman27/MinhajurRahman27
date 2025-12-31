@@ -1,5 +1,6 @@
 <img src="https://i.ibb.co.com/35bpwFgy/la-1.jpg" alt="Minhajur Rahman GitHub README header image">
-<h1 align="center"> 👋 Hi, I'm Minhajur Rahman | Frontend Developer</h1>
+<h1 align="center">👋 Hi, I'm <strong>Minhajur Rahman</strong></h1>
+<h2 align="center">💻 Frontend Developer | React & JavaScript Enthusiast</h2>
 
 ## 👨‍💻 About Me
 I’m a passionate **Frontend Developer** who loves building clean, responsive, and user-friendly web interfaces.  
